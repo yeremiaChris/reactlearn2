@@ -38,7 +38,7 @@ export class Greet extends Component {
 
         return (
             <div>
-                {/* <h1>hello {this.props.name} and {this.props.heroName}</h1> */}
+                {/* <h1>h ello {this.props.name} and {this.props.heroName}</h1> */}
                 <h1>hello {name} and {heroName}</h1>
             </div>
         )
